@@ -1,25 +1,56 @@
-*
-{
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     overflow: hidden;
 }
 
+/*--Background Styling--*/
+
 .scene {
+    display: flex;
+    flex-direction: column;
     position: relative;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
     background: linear-gradient(#a6d8ff, white, salmon);
     text-align: center;
 }
 
-#lightyourfuture {
-    position: absolute;
-    top: 100px;
-    left: 55%;
-    width: 100px;
+/*--Title Image Styling--*/
 
+.lightyourfuture {
+    width: 700px;
 }
+
+@media only screen and (max-width: 1800px) {
+    .lightyourfuture {
+        width: 550px;
+        height: auto;
+
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .lightyourfuture {
+        width: 400px;
+        height: auto;
+
+    }
+}
+
+/*--Click to Next Page Styling--*/
+
+.enterTxt {
+    font-family: 'Roboto',
+        sans-serif;
+    font-size: 2em;
+}
+
+/*--Index Game Design Styling--*/
 
 .character {
     position: absolute;
@@ -30,19 +61,13 @@
     animation: character 18s linear infinite;
 }
 
-#h1 {
-    margin-top: 10%;
-    padding-bottom: 5%;
-    font-family: fantasy;
-    font-size: 80pt;
-}
 @keyframes character {
-    0%
-    {
+    0% {
         transform: translateX(0px);
     }
-    90%, 100%
-    {
+
+    90%,
+    100% {
         transform: translateX(calc(100vw + 200px));
     }
 }
