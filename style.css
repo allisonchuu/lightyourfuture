@@ -27,7 +27,7 @@ body {
 /*--Title Image Styling--*/
 
 .lightyourfuture {
-    width: 700px;
+    width: 600px;
 }
 
 @media only screen and (max-width: 1800px) {
@@ -58,28 +58,31 @@ body {
 
 .character {
     position: absolute;
-    left: -200px;
-    bottom: 10px;
-    max-width: 400px;
-    z-index: 10;
-    animation: character 15s linear infinite;
+    left: 0;
+    bottom: 5%;
+    max-width: 200px;
+    z-index: 1;
 }
 
-@keyframes character {
-    0% {
-        transform: translateX(0px);
-    }
+.arrows {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    width: 250px;
+}
 
-    90%,
-    100% {
-        transform: translateX(calc(100vw + 200px));
-    }
+.start {
+    position: fixed;
+    right: 0;
+    bottom: 5%;
+    padding: 20px;
+    width: 75px;
 }
 
 /*--Game Page Title Styling--*/
 
 .gameTitle {
-    /*background-color: white;*/
     position: fixed;
     left: 0;
     top: 0;

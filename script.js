@@ -1,12 +1,37 @@
-const titlePage = document.querySelector("#titlepage");
+const start = document.querySelector(".start");
+const character = document.querySelector(".character");
 
-titlePage.addEventListener("keyup", event => {
-  if (event.code !== "Enter") return;
-  window.location = "game.html";
-  event.preventDefault();
+var startG = start.getBoundingClientRect();
+var characterG = character.getBoundingClientRect();
+
+ $(document).keydown(function(e) {
+    if (e.which == '39') { //Right arrow key
+        $(".character").finish().animate({
+            left: "+=50"
+        });
+    }
+    if (e.which == '37') { //left arrow key
+        $(".character").finish().animate({
+            left: "-=50"
+        });
+    }
+    if (e.which == '40') { //down arrow key
+        $(".character").finish().animate({
+            top: "+=50"
+        });
+    }
+    if (e.which == '38') { //up arrow key
+        $(".character").finish().animate({
+            top: "-=50"
+        });
+    }
+    startGame();
 });
 
-titlePage.addEventListener("click", event => {
-  window.location = "game.html";
-  event.preventDefault();
-});
+function startGame(){
+    console.log(character.x);
+    console.log(start.x);
+    if(character.x >= start.x){
+        window.location = "game.html";
+    }
+}
