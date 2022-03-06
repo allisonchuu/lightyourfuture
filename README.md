@@ -6,21 +6,20 @@ Hi :) Welcome to Light Your Future.
 
 *A fun mini game where you get to travel through time collecting money and face different obstacles on your way to the future.*
 
-<br>
-
 ## hello...you🧢
 
 <img src="assets/loading.gif" width="600"  alt="Game Example"/>
 
 **Navigate Here**
-- 🎮  [the game](#the-game)
+- 🎮  [the game](#video_game-the-game)
 - 🌟 [the inspo](#our-inspiration)
 - ⚙️ [the tech](#technologies-we-used)
 - 😀 [the people](#about-us)
 
 <br>
+:video_game:
 
-## 🎮 the game
+## :video_game: the game 
 **first of all!** let's get straight to it. play LYF here -> [Light Your Future](https://www.lightyourfuture.tech)
 
 **second of all!** 
@@ -64,15 +63,15 @@ We also hope to incorporate a character selection portion to our game to allow p
 *Learning new technologies is fun...most of the time*🥲
 <p float="left">
     <img src="assets/htmlcssjs.png" width="100" alt="HTML/CSS, Javascript" />
-<img src="assets/unity.png" width="45" alt="Unity"/>
-<img src="assets/csharp.png" width="45" alt="C#"/>
-<img src="assets/procreate.png" width="45" alt="Procreate"/>
-<img src="assets/pixilart.png" width="45" alt="PixilArt"/>
+<img src="assets/unity.png" width="50" alt="Unity"/>
+<img src="assets/csharp.png" width="50" alt="C#"/>
+<img src="assets/procreate.png" width="55" alt="Procreate"/>
+<img src="assets/pixilart.png" width="55" alt="PixilArt"/>
 </p>
 
 - **HTML/CSS and Javascript** - Our team used these tools to build and style our website that hosts the Unity WebPlayer. HTML/CSS were used to style each page, and Javascript was used to make our landing page interactive. 
 
-- **Unity/C#** - Our game was made using Unity and C# scripting and then exported into a web player format to be included into our website.
+- **Unity/C#** - Our game was made using Unity and C# scripting to provide movement and interaction within the game, and then exported into a web player format to be included into our website.
 
 - **Procreate/PixilArt** - Our team was able to create most of the graphics seen in LYF with Procreate and PixilArt.
 
