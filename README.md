@@ -3,7 +3,6 @@
 # Light Your Future 🔥
 
 ## hello...you🧢
-<br>
 
 - 🎮  [the game](#the-game)
 - ⚙️ [the tech](#technologies-we-used)
@@ -11,8 +10,6 @@
 - 😀 [the people](#about-us)
 
 <img src="assets/loading.gif" width="600"  alt="Game Example"/>
-<br>
-<br>
 
 
 ## the game
