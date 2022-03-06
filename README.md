@@ -12,12 +12,11 @@ Hi :) Welcome to Light Your Future.
 
 **Navigate Here**
 - 🎮  [the game](#video_game-the-game)
-- 🌟 [the inspo](#our-inspiration)
-- ⚙️ [the tech](#technologies-we-used)
-- 😀 [the people](#about-us)
+- 🌟 [the inspo](#star2-our-inspiration)
+- ⚙️ [the tech](#gear-technologies-we-used)
+- 😀 [the people](#grinning-about-us)
 
 <br>
-:video_game:
 
 ## :video_game: the game 
 **first of all!** let's get straight to it. play LYF here -> [Light Your Future](https://www.lightyourfuture.tech)
@@ -36,7 +35,7 @@ Playing LYF is easy! just use your arrow keys to move and space bar to jump ⌨
 
 <br>
 
-## 🌟 our inspiration
+## :star2: our inspiration
 
 <img src="assets/inspiration.gif" width="100%" alt="Inspiration GIF"/>
 
@@ -56,7 +55,7 @@ We also hope to incorporate a character selection portion to our game to allow p
 
 <br>
 
-## ⚙️ technologies we used
+## :gear: technologies we used
 
 <img src="assets/technology.gif" width="100%" alt="We Have Technology Spongebob GIF"/>
 
@@ -77,7 +76,7 @@ We also hope to incorporate a character selection portion to our game to allow p
 
 <br>
 
-## 😀 about us
+## :grinning: about us
 
 <img src="assets/me.gif" width="100%" alt="That's So Me GIF"/>
 
