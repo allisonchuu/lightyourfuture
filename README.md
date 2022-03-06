@@ -19,20 +19,21 @@ Hi :) Welcome to Light Your Future.
 
 
 ## the game
-**first of all!** let's get straight to it. play LYF here -> [Light Your Future](https://allisonchuu.github.io/lightyourfuture/game.html)
+**first of all!** let's get straight to it. play LYF here -> [Light Your Future](https://www.lightyourfuture.tech)
 
 **second of all!** 
 
  Light Your Future(LYF)🔥 is an awesome mini game where you can travel through time avoiding the Plague 🐀, Covid-19 🦠, and Blackholes 🕳️ to collect money on your way to the future!
 
-<img src="assets/caveex.gif" width="300" alt="Game Example"/>
+<img src="assets/caveex.gif" width="100%" alt="Game Example"/>
 
 Each level in LYF is won by reaching that time's best innovation! Whether that be the wheel🔘, the light bulb💡, the world wide web🌐, or the next big thing❓
 
-Playing LYF is easy! just use your arrow kets to move and space bar to jump ⌨
+Playing LYF is easy! just use your arrow keys to move and space bar to jump ⌨
 
 **Enjoy the game player! Discover the next big thing** 🚀 
 
+<img src="assets/inspiration.gif" width="100%" alt="Inspiration GIF"/>
 ## our inspiration
 
 Our team 👥 was inspired by HackMerced VII's theme *Light the Future* to creat LYF. We wanted to provide an interactive way to show the different time periods human beings have gone through to get to the present 🕰️. By showcasing different obstacles in each era faced, we were able to show a bit of history in our game. 
@@ -43,6 +44,7 @@ At the end of every level there is an innovation of that time period you have to
 
 We plan to create new levels to emulate different time periods in our history where new innovation happened. 
 
+<img src="assets/technology.gif" width="100%" alt="We Have Technology Spongebob GIF"/>
 ## technologies we used
 
 <p float="left">
@@ -59,6 +61,7 @@ We plan to create new levels to emulate different time periods in our history wh
 
 - **Procreate/PixilArt** - Our team was able to create most of the graphics seen in LYF with Procreate and PixilArt.
 
+<img src="assets/me.gif" width="100%" alt="That's So Me GIF"/>
 ## about us
 
 *Get to know more about the team behind Light Your Future!*
