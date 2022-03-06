@@ -33,8 +33,11 @@ Playing LYF is easy! just use your arrow keys to move and space bar to jump ⌨
 
 **Enjoy the game player! Discover the next big thing** 🚀 
 
-<img src="assets/inspiration.gif" width="100%" alt="Inspiration GIF"/>
+
+
 ## our inspiration
+
+<img src="assets/inspiration.gif" width="100%" alt="Inspiration GIF"/>
 
 Our team 👥 was inspired by HackMerced VII's theme *Light the Future* to creat LYF. We wanted to provide an interactive way to show the different time periods human beings have gone through to get to the present 🕰️. By showcasing different obstacles in each era faced, we were able to show a bit of history in our game. 
 
@@ -44,9 +47,13 @@ At the end of every level there is an innovation of that time period you have to
 
 We plan to create new levels to emulate different time periods in our history where new innovation happened. 
 
-<img src="assets/technology.gif" width="100%" alt="We Have Technology Spongebob GIF"/>
+
+
 ## technologies we used
 
+<img src="assets/technology.gif" width="100%" alt="We Have Technology Spongebob GIF"/>
+
+*Learning new technologies is fun...most of the time*🥲
 <p float="left">
     <img src="assets/htmlcssjs.png" width="100" alt="HTML/CSS, Javascript" />
 <img src="assets/unity.png" width="45" alt="Unity"/>
@@ -61,8 +68,11 @@ We plan to create new levels to emulate different time periods in our history wh
 
 - **Procreate/PixilArt** - Our team was able to create most of the graphics seen in LYF with Procreate and PixilArt.
 
-<img src="assets/me.gif" width="100%" alt="That's So Me GIF"/>
+
+
 ## about us
+
+<img src="assets/me.gif" width="100%" alt="That's So Me GIF"/>
 
 *Get to know more about the team behind Light Your Future!*
 
