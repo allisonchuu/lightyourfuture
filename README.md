@@ -4,7 +4,7 @@
 
 Hi :) Welcome to Light Your Future. 
 
-*A fun mini game where you get to travel through time collecting money and facing obstacles just as you would during those different eras.*
+*A fun mini game where you get to travel through time collecting money and facing obstacles.*
 
 ## hello...you🧢
 
