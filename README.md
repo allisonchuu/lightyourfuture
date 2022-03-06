@@ -39,13 +39,17 @@ Playing LYF is easy! just use your arrow keys to move and space bar to jump ⌨
 
 <img src="assets/inspiration.gif" width="100%" alt="Inspiration GIF"/>
 
-Our team 👥 was inspired by HackMerced VII's theme *Light the Future* to creat LYF. We wanted to provide an interactive way to show the different time periods human beings have gone through to get to the present 🕰️. By showcasing different obstacles in each era faced, we were able to show a bit of history in our game. 
+Light Your Future was created for UC Merced's 36hr hackathon HackMerced! Each of us had an awesome time brainstorming ideas focused around HackMerced's tracks. As well as being involved in different ascpets of the project.
+
+Our team 👥 was inspired by HackMerced VII's theme *Light the Future* and track *Open Innovation* to create LYF. We wanted to provide an interactive way to show the different time periods human beings have gone through to get to the present 🕰️. By showcasing different obstacles in each era faced, we were able to show a bit of history in our game. 
 
 At the end of every level there is an innovation of that time period you have to reach to move onto the next level. As engineers we are capable of creating new technologies to change the way people live everyday.
 
+Our team had a blast working together to create our game. We each were able to teach each other a little bit of our individual skills, so all of us were able to make the most out of this weekend.
+
 ### for the future 🔮
 
-We plan to create new levels to emulate different time periods in our history where new innovation happened. 
+We plan to create new levels to emulate different time periods in our history where new innovation happened. When new technologies come out in our day and age we want to mirror that in our mini game. 
 
 
 
