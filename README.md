@@ -6,6 +6,8 @@ Hi :) Welcome to Light Your Future.
 
 *A fun mini game where you get to travel through time collecting money and face different obstacles on your way to the future.*
 
+<br>
+
 ## hello...you🧢
 
 <img src="assets/loading.gif" width="600"  alt="Game Example"/>
@@ -16,7 +18,7 @@ Hi :) Welcome to Light Your Future.
 - ⚙️ [the tech](#technologies-we-used)
 - 😀 [the people](#about-us)
 
-
+<br>
 
 ## 🎮 the game
 **first of all!** let's get straight to it. play LYF here -> [Light Your Future](https://www.lightyourfuture.tech)
@@ -33,7 +35,7 @@ Playing LYF is easy! just use your arrow keys to move and space bar to jump ⌨
 
 **Enjoy the game player! Discover the next big thing** 🚀 
 
-
+<br>
 
 ## 🌟 our inspiration
 
@@ -53,7 +55,7 @@ We plan to create new levels to emulate different time periods in our history wh
 
 We also hope to incorporate a character selection portion to our game to allow players of all shapes and sized to be represented in our game.
 
-
+<br>
 
 ## ⚙️ technologies we used
 
@@ -74,7 +76,7 @@ We also hope to incorporate a character selection portion to our game to allow p
 
 - **Procreate/PixilArt** - Our team was able to create most of the graphics seen in LYF with Procreate and PixilArt.
 
-
+<br>
 
 ## 😀 about us
 
