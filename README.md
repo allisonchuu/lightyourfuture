@@ -4,22 +4,24 @@
 
 Hi :) Welcome to Light Your Future. 
 
-*A fun mini game where you get to travel through time collecting money and facing obstacles.*
+*A fun mini game where you get to travel through time collecting money and face different obstacles on your way to the future.*
 
 ## hello...you🧢
 
+<img src="assets/loading.gif" width="600"  alt="Game Example"/>
+
+**Navigate Here**
 - 🎮  [the game](#the-game)
 - ⚙️ [the tech](#technologies-we-used)
 - 🌟 [the inspo](#our-inspiration)
 - 😀 [the people](#about-us)
 
-<img src="assets/loading.gif" width="600"  alt="Game Example"/>
 
 
 ## the game
-first of all! let's get straight to it. play LYF here -> [Light Your Future](https://allisonchuu.github.io/lightyourfuture/game.html)
+**first of all!** let's get straight to it. play LYF here -> [Light Your Future](https://allisonchuu.github.io/lightyourfuture/game.html)
 
-second of all! 
+**second of all!** 
 
  Light Your Future(LYF)🔥 is an awesome mini game where you can travel through time avoiding the Plague 🐀, Covid-19 🦠, and Blackholes 🕳️ to collect money on your way to the future!
 
@@ -29,11 +31,17 @@ Each level in LYF is won by reaching that time's best innovation! Whether that b
 
 Playing LYF is easy! just use your arrow kets to move and space bar to jump ⌨
 
-Emjoy the game player! Discover the next big thing 🚀 
+**Enjoy the game player! Discover the next big thing** 🚀 
 
-## our insipration
+## our inspiration
 
-Our team 👥 used inspiration from HackMerced VII's theme *Light the Future* to creat LYF. We wanted to provide an interactive way to show the different time periods human beings have gone through to ge to the present 🕰️. By showcasing different obstacles in each era faced we can show a bit of history in our game.
+Our team 👥 was inspired by HackMerced VII's theme *Light the Future* to creat LYF. We wanted to provide an interactive way to show the different time periods human beings have gone through to get to the present 🕰️. By showcasing different obstacles in each era faced, we were able to show a bit of history in our game. 
+
+At the end of every level there is an innovation of that time period you have to reach to move onto the next level. As engineers we are capable of creating new technologies to change the way people live everyday.
+
+### for the future 🔮
+
+We plan to create new levels to emulate different time periods in our history where new innovation happened. 
 
 ## technologies we used
 
@@ -45,9 +53,14 @@ Our team 👥 used inspiration from HackMerced VII's theme *Light the Future* to
 <img src="assets/pixilart.png" width="45" alt="PixilArt"/>
 </p>
 
+- **HTML/CSS and Javascript** - Our team used these tools to build and style our website that hosts the Unity WebPlayer.
+
+- **Unity/C#** - Our game was made using Unity and C# and then exported into a web player format to be included into our website.
+
+- **Procreate/PixilArt** - Our team was able to create most of the graphics seen in LYF with Procreate and PixilArt.
 
 ## about us
 
 *Get to know more about the team behind Light Your Future!*
 
-- 🐶 Allison Chu - "Hi! I'm a current student at University of California, Riverside, studying Neuroscience with a Computer Science Minor. I have a passion for web design and front-end development. Fun Fact: I have a cute pup named Morty(ig:@mortythemaltipoo)"
+- 🐶 **Allison Chu** - "Hi! I'm a current student at University of California, Riverside, studying Neuroscience with a Computer Science Minor. I have a passion for web design and front-end development. I contributed to this project by helping build the website and create the money/obstacle icons in the game. Fun Fact: I have a cute pup named Morty(ig:@mortythemaltipoo)"
