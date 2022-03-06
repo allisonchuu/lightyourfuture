@@ -31,7 +31,7 @@ var characterG = character.getBoundingClientRect();
 function startGame(){
     console.log(character.x);
     console.log(start.x);
-    if(character.x >= start.x){
+    if(character.x >= start.x && character.y <= start.y){
         window.location = "game.html";
     }
 }
